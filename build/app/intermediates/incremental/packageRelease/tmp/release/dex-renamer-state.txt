@@ -1,0 +1,4 @@
+#Fri Feb 14 14:35:36 IST 2020
+base.0=/Users/yudiz/Documents/jignesh/Flutter projects/rive_day_night_animation/build/app/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
